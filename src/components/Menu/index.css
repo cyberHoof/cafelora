@@ -6,7 +6,7 @@
 
 .drinks-list {
   display: grid;
-  grid-template-columns: repeat( auto-fit, minmax(20rem, 1fr) );
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   justify-content: center;
   justify-items: center;
   grid-gap: 1rem;
@@ -23,7 +23,6 @@
   box-shadow: 0 0 3px #444;
 }
 
-/* Menu - Drink */
 .drink {
   width: 20rem;
 }
@@ -79,7 +78,6 @@
   background-color: #e67e51;
 }
 
-/* Drink - Layer */
 .layer {
   display: flex;
   padding: 0.25rem;

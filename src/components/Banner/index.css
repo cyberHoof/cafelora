@@ -1,3 +1,10 @@
+.banner__content {
+  width: 30%;
+  margin-left: 65%;
+  padding-top: 4rem;
+  text-align: center;
+}
+
 .banner {
   padding-top: 0;
   background-image: url("./img/beans.jpg");
